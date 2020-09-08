@@ -52,16 +52,6 @@ header{
   /* background-color: #221e3f; */
    z-index: 2;
 
-/*
-  width: 100%;
-  position: fixed;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #221e3f;
-  box-shadow: 1px 2px 12px #252323;
-  padding: 0px 3%;
-  z-index: 10; */
 }
 
 /* .nav-list ul{
@@ -124,7 +114,7 @@ li{
 
 .nav-link{
   margin-top: 50px;
-  font-family: 'ocr a extended', sans-serif;
+  font-family: 'monotype corsiva', sans-serif;
   font-size: 3.5rem;
   padding: 1rem;
 }
